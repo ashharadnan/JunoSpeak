@@ -1,4 +1,4 @@
-# AGENTS.md — guidance for coding agents in this repo
+# JunoSpeak — repo agent guidance
 
 Standalone pipecat voice pipeline: Moonshine STT -> OpenAI-compatible LLM ->
 OpenAI-compatible TTS. The bot is a pure HTTP client; the servers are

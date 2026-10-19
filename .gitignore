@@ -237,3 +237,9 @@ model_cache
 
 # WSL path artifacts
 *.lnk
+
+# Graphify Wiki
+graphify-out/
+
+# Docs
+.docs/

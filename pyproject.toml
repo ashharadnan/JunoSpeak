@@ -1,7 +1,7 @@
 [project]
-name = "hermes-live"
+name = "junospeak"
 version = "0.1.0"
-description = "Local half-duplex-but-interruptible voice assistant on pipecat: Moonshine STT -> OpenAI-compatible LLM -> OpenAI-compatible TTS."
+description = "JunoSpeak — local half-duplex-but-interruptible Omni voice assistant on pipecat: Moonshine STT -> OpenAI-compatible LLM -> OpenAI-compatible TTS."
 readme = "README.md"
 license = { file = "LICENSE" }
 requires-python = ">=3.12"
